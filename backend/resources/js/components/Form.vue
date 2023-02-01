@@ -4,6 +4,7 @@
 
         <form>
             <textarea></textarea>
+            <button type="submit">Add</button>
         </form>
     </div>
 </template>
